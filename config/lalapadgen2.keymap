@@ -57,6 +57,11 @@
             bindings = <&kp TAB>;
             key-positions = <10 11>;
         };
+
+        printscreen {
+            bindings = <&kp PRINTSCREEN>;
+            key-positions = <8 9>;
+        };
     };
 
     keymap {
